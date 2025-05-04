@@ -12,7 +12,7 @@ gem 'listen', group: :development
 gem 'pg'
 gem 'pry-rails'
 gem 'puma'
-gem 'rails', '~> 7.0.3'
+gem 'rails', '~> 7.2.2'
 gem 'rspec-rails'
 gem 'sass-rails'
 gem 'selenium-webdriver', group: [:development, :test]
